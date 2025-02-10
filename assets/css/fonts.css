@@ -1,0 +1,19 @@
+@font-face {
+    font-family: chomsky;
+    src: url('../fonts/Chomsky.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: '5thGradeCursive'; /* Unique name for the font family */
+    src: url('../fonts/5th-grade-cursive/5thgradecursive-2.ttf') format('truetype'); /* Regular font */
+    font-weight: normal; /* Normal weight */
+    font-style: normal; /* Normal style */
+}
+
+@font-face {
+    font-family: '5thGradeCursive'; /* Same font family name */
+    src: url('../fonts/5th-grade-cursive/5thgradecursive-2-italic.ttf') format('truetype'); /* Italic font */
+    font-weight: normal; /* Normal weight */
+    font-style: italic; /* Italic style */
+}
+

@@ -20,4 +20,4 @@ Also, for those of you who don't know, **"The ACE Times"** is a play on **_The N
 
 Hope you guys enjoy this! :smile:
 
-P.S. If the thumbnail pictures look sad and gray, just hover over them. If I new how to change this setting, I would. :disappointed:
+P.S. If the thumbnail pictures look sad and gray, just hover over them. If I knew how to change this setting, I would. :disappointed:

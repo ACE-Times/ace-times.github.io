@@ -11,7 +11,7 @@ comments: true
 
 In case you didn't read the title, it's time to start making **leprechaun traps!** :four_leaf_clover:
 
-People can display them from the first week of March until the March 18th. :calendar: :shamrock:
+People can display them from the beginning of March until the contest on March 20th. :calendar: :shamrock:
 
 Every participant will win points for their house team. :medal_sports:
 
